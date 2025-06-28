@@ -6,4 +6,4 @@ class Yaraloh():
             print('Все равно гей')
 
 
-yara = Yaraloh('Да')
+yara = Yaraloh('Нет')
